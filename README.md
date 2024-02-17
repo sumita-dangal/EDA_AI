@@ -1,1 +1,1 @@
-This is Exploratory Data Analysis (EDA) of Diabates. 
+This is Exploratory Data Analysis (EDA) of Diabetes. 
