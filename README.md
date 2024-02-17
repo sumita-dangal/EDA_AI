@@ -1,1 +1,1 @@
-# EDA_AI
+This is Exploratory Data Analysis (EDA) of Diabates. 
